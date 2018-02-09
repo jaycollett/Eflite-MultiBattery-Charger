@@ -1,0 +1,98 @@
+# exportet with Version 4.1 from C:/Users/Jay/Documents/eagle/E-fliteMultiBatteryCharger/E-fliteMultiBatteryCharger.brd.
+GRID mil;
+CHANGE SIZE 50;
+LAYER 144 Drill_legend;
+CHANGE LAYER 144;
+WINDOW FIT;
+SET WIRE_BEND 2;
+CHANGE STYLE Continuous;
+# Pads
+MARK (122.4 914.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (283.5 764.9);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (408.6 915.0);Wire 3 (R -40 0) (R 40 0);Wire 3 (R 0 40) (R 0 -40);Circle 3 (R 0 0) (R 40 0);Circle 3 (R 0 0) (R 20 0);
+# Pads
+MARK (750.0 1000.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (750.0 900.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (750.0 800.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Holes-PAC
+MARK (629.9 1505.9);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Holes-PAC
+MARK (629.9 232.3);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Holes-PAC
+MARK (2126.0 232.3);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Holes-PAC
+MARK (2126.0 1505.9);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (550.0 1650.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (650.0 1650.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (1450.0 1650.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (1550.0 1650.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (550.0 100.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (650.0 100.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (1450.0 100.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (1550.0 100.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Pads
+MARK (2360.6 900.0);Wire 3 (R -40 40) (R 40 -40) (R 40 40) (R -40 -40) (R -40 40);
+# Pads
+MARK (2439.4 900.0);Wire 3 (R -40 40) (R 40 -40) (R 40 40) (R -40 -40) (R -40 40);
+# Pads
+MARK (2281.9 900.0);Wire 3 (R -40 40) (R 40 -40) (R 40 40) (R -40 -40) (R -40 40);
+# Pads
+MARK (2518.1 900.0);Wire 3 (R -40 40) (R 40 -40) (R 40 40) (R -40 -40) (R -40 40);
+# Holes-BRD
+# Vias
+MARK (700.0 390.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (710.0 560.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (830.0 210.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (930.0 310.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (1670.0 310.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (1740.0 240.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (1380.0 930.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (1350.0 700.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (1770.0 1390.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (850.0 340.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (1670.0 360.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (930.0 410.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+# Vias
+MARK (940.0 520.0);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+MARK (3847.0 50.4);Wire 3 (R -40 40) (R 40 -40) (R 40 40) (R -40 -40) (R -40 40);
+TEXT '1.0000 mm / 39.370 mil ' (3996.960630 25.377953);
+MARK (3847.0 180.4);Wire 3 (R -40 0) (R 40 0);Wire 3 (R 0 40) (R 0 -40);Circle 3 (R 0 0) (R 40 0);Circle 3 (R 0 0) (R 20 0);
+TEXT '3.2000 mm / 125.984 mil ' (3996.960630 155.377953);
+TEXT '0.5080 mm / 20.000 mil ' (3996.960630 400.377953);
+TEXT '0.8128 mm / 32.000 mil ' (3996.960630 500.377953);
+TEXT '1.0160 mm / 40.000 mil ' (3996.960630 600.377953);
+TEXT '2.9972 mm / 118.000 mil ' (3996.960630 700.377953);
+TEXT '3.3020 mm / 130.000 mil ' (3996.960630 800.377953);
+TEXT '5 different diameters with default symbols! (30 drills)' (3996.960630 925.377953);
+MARK (3847.0 900.4);Wire 3 (R 40 40) (R -40 -40);Circle 3 (R 0 0) (R 40 0);
+CHANGE SIZE 70;
+TEXT 'Date: 12/13/2009 9:17:39 PM' (3886.960630 1125.377953);
+TEXT 'Drill legend' (3886.960630 1225.377953);
+WIRE 5  (3746.960630 -79.622047) (3746.960630 1325.377953);
+WIRE    (3746.960630 -79.622047) (5106.960630 -79.622047);
+WINDOW FIT;
+MARK;
+GRID LAST;
